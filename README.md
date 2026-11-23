@@ -19,4 +19,5 @@ would be prepared to create a PCB, so here it is.
 
 - [Schematic](./FJ-Random_Schematic.pdf)
 - [Bill of Materials](./FJ-Random_BOM.csv)
+- [Gerber Files](./FJ-Random_Gerber.zip)
 
