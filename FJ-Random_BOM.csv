@@ -1,0 +1,21 @@
+Reference,Qty,Value,Notes,Comments
+,,,,
+C1,1,1uF,Electrolytic D5.0mm P2.50mm,
+C2,1,4.7uF,Electrolytic D5.0mm P2.50mm,
+C3,1,8uF,Electrolytic D5.0mm P2.50mm,
+C4,1,16uF,Electrolytic D5.0mm P2.50mm,
+C5,1,15nF,Ceramic Disc P2.50mm,
+"D1,D2,D3,D4,D5,D6,D7,D8",8,LED,5mm LED,
+"D9,D10",2,1N4148,DO-34,
+J1,1,Conn_01x02_Pin,Molex KK-254 2-pin Pitch 2.54mm,
+J2,1,Conn_02x04_Odd_Even,PinHeader 2x4 rows Pitch 2.54mm,
+R1,1,100K,,
+R2,1,330R,,
+"R3,R4,R5,R6,R7,R8",6,4K7,,
+"R9,R10,R11,R12,R13,R14,R15",7,220R,,
+SW1,1,SW_SPDT,PCB mount slide-switch Pitch 2.54mm,e.g. Buwei SPDT 1P2T 3 Pin PCB Vertical Slide Switch SS12D00G3 https://www.amazon.co.uk/dp/B08MZJBJWR/
+"SW2,SW3",2,SW_SPST,Through-hole Button Switch 6x6x4.3 (Omron_B3F-100x),e.g. AliExpress G89 Tactile Tact Push Button Micro Switch https://www.aliexpress.com/item/1005009810819149.html
+U1,1,NE555D,DIP8,
+"U2,U3,U4",3,74LS74,DIP14,
+U5,1,74LS86,DIP14,
+U6,1,L7805,TO-220-3,

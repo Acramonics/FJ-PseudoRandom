@@ -14,9 +14,9 @@ Anthony asked on his [YouTube
 video](https://www.youtube.com/watch?v=BzSbq5TuRcQ) whether anyone
 would be prepared to create a PCB, so here it is.
 
-![PCB Image](./fj-random_PCB.png)
+![PCB Image](./FJ-Random_PCB.png)
 
 
-- [Schematic](./schematic.pdf)
-- [Bill of Materials](./BOM.ods)
+- [Schematic](./FJ-Random_Schematic.pdf)
+- [Bill of Materials](./FJ-Random_BOM.csv)
 
