@@ -13,3 +13,10 @@ number generator.
 Anthony asked on his [YouTube
 video](https://www.youtube.com/watch?v=BzSbq5TuRcQ) whether anyone
 would be prepared to create a PCB, so here it is.
+
+![PCB Image](./fj-random_PCB.png)
+
+
+- [Schematic](./schematic.pdf)
+- [Bill of Materials](./BOM.ods)
+
